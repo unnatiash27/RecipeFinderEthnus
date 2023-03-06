@@ -18,7 +18,9 @@ Recipe Finder is a full-stack MERN (MongoDB, Express, React, Node.js) web applic
 
 To run the app locally, clone the repository and navigate to the root directory. Install dependencies using npm install.
 
-You will also need to create a .env file in the root directory and set the following environment variables:
+You will also need to create a .env.themealdb file in the root directory and set the following environment variables: REACT_APP_THE_MEAL_DB_API_KEY (You can get api key from https://www.themealdb.com/api.php)
+
+You will also need to create a .env file in the server directory and set the following environment variables: STRIPE_KEY (You can get api key from https://stripe.com/docs/api)
 
 ## Technologies Used
 
