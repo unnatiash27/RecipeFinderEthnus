@@ -134,7 +134,6 @@ const Profile = () => {
         shoppingList={shoppingList}
         setShoppingList={setShoppingList}
       /> */}
-      <Cart />
     </div>
   );
 };

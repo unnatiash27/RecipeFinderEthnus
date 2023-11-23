@@ -319,9 +319,7 @@ const MealDetails = () => {
                     })}
 
                   </ol>
-                  <input type="button" onClick={selects} value="Select All" />
-                  {' '}
-                  <input type="button" onClick={deSelect} value="Deselect All" />
+                  
 
 
                 </div>
@@ -351,13 +349,7 @@ const MealDetails = () => {
                       : "Save Recipe"}
                   </button>
                 )}
-                <button
-                  className="add-btn btn"
-                  onClick={addToCart}
-                  style={{ fontWeight: "600" }}
-                >
-                  Add to Cart
-                </button>
+                
                 {/* <button
                   className="remove-btn btn"
                   style={{ fontWeight: "600" }}
@@ -373,7 +365,7 @@ const MealDetails = () => {
           </div>
         ))}
 
-        <Cart />
+        
       </div>
     </div>
   );

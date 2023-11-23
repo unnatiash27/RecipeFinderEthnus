@@ -46,7 +46,7 @@ const Signup = () => {
     >
       <div className="signup-form">
         <div className="card" style={{ border: "none" }}>
-          <h4 className="card-header" style={{ backgroundColor: "#FFD2CC" }}>
+          <h4 className="card-header" style={{ backgroundColor: "rgb(188 173 215)" }}>
             Sign Up
           </h4>
           <div
@@ -57,7 +57,7 @@ const Signup = () => {
               justifyContent: "center",
               margin: "0 auto",
               padding: "9px 25px 25px 25px",
-              backgroundColor: "#FFD2CC",
+              backgroundColor: "rgb(188 173 215)",
             }}
           >
             {data ? (
@@ -103,7 +103,7 @@ const Signup = () => {
                   className="signup-btn"
                   style={{
                     cursor: "pointer",
-                    backgroundColor: "#ABD69D",
+                    backgroundColor: "rgb(188 173 215)",
                     alignItems: "center",
                     marginTop: "5%",
                     width: "150px",

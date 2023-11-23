@@ -1,7 +1,7 @@
 .search-container {
     display: flex;
     justify-content: center;
-    background-color: #fecdbd;
+    background-color: #bdc8fe;
     align-items: center;
 }
 
@@ -16,14 +16,14 @@
     border: none;
     border-radius: 4px;
     height: 30px;
-    width: 80px;
-    background-color: #D6FFC8;
-    font-size: small;
-    color: rgba(100, 98, 98, 0.796);
+    width: 90px;
+    background-color: #4240c0;
+    font-size: medium;
+    color: rgba(255, 255, 255, 0.796);
 }
 .filter:hover {
-    background-color: #bfedb0;
-    color: rgb(55, 54, 54);
+    background-color: #ebebf0 ;
+    color: rgb(0, 0, 0);
 }
 
 .searchbar {
@@ -39,11 +39,13 @@
     margin: 0 10px;
     height: 30px;
     width: 70px;
-    background-color: #bfedb0;
-    color: rgba(100, 98, 98, 0.796);
+    font-size: medium;
+    background-color: #4240c0;
+    color: rgba(255, 255, 255, 0.796);
 }
 .searchbar-btn:hover {
-    color: rgb(55, 54, 54);
+    background-color: #ebebf0 ;
+    color: rgb(0, 0, 0);
 }
 
 

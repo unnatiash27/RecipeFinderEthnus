@@ -3,7 +3,7 @@
     flex-direction: column;
     margin: 5% 10%;
     padding-bottom: 50px;
-    background-color: rgb(233, 255, 200);
+    background-color: rgb(80, 91, 213);
     border-radius: 10px;
     /* align-content: center;
     align-items: center;
@@ -36,7 +36,7 @@
     flex-direction: column;
     padding: 10px;
     border-radius: 8px;
-    background-color: rgb(238, 255, 212);
+    background-color: rgb(212, 218, 255);
 }
 .recipe-details h2 {
     text-align: center;

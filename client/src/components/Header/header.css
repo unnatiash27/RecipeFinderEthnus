@@ -1,5 +1,5 @@
 header {
-    background-color: #ffffff;
+    background-image: linear-gradient(#aeace7, transparent);
 }
 
 .navbar {
@@ -15,16 +15,17 @@ header {
 }
 
 .page-title {
-    color: rgba(81, 166, 90, 0.938);
+    color: rgba(28, 6, 141, 0.938);
     text-decoration: none;
     text-align: left;
     font-size: 40px;
 }
 
 .page-title:hover {
-    color: rgb(255, 159, 135);
+    color: rgb(255, 0, 208);
     opacity: 50%;
     transition: all .5s ease;
+    
 }
 
 .navbar-links {
@@ -32,7 +33,7 @@ header {
 }
 
 .link {
-    color: rgb(56, 56, 56);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 .link:hover {

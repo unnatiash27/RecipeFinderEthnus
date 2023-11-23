@@ -1,10 +1,10 @@
 .home-container{
-    background-image: linear-gradient(#e8ffe1, transparent);
+    background-image: linear-gradient(#aeace7, transparent);
     margin: 0 auto;
 }
 
 .home-banner {
-    background-color: #d4fbc2;
+    background-color: #6d72c2;
     padding: 3% 0 1% 0;
     display: flex;
     flex-direction: column;
@@ -15,7 +15,7 @@
 .home-banner h2 {
     font-weight: 600;
     font-size: 45px;
-    color: rgb(85, 85, 85);
+    color: rgb(0, 0, 0);
 }
 .home-banner img {
     max-width: 275px;
@@ -24,12 +24,14 @@
 }
 #get-started-btn {
     margin: 20px auto;
-    width: 140px;
-    height: 30px;
+    width: 180px;
+    height: 50px;
     border: none;
     border-radius: 2px;
-    background-color: #ffb198;
-    opacity: 80%;
+    background-color: rgb(173, 9, 135);
+   
+    font-weight: bold;
+    color:black;
 }
 #get-started-btn a {
     text-decoration: none;

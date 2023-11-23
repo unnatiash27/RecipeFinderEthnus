@@ -14,7 +14,7 @@ a {
 
 .recipe-results-container {
     margin: 5% 7%;
-    background-color: #fff7f4;
+    background-image: linear-gradient(#aeace7, transparent);
     border-radius: 8px;
 }
 .recipe-container {
@@ -30,7 +30,7 @@ a {
   border-radius: 8px;
   width: 250px;
   height: 325px;
-  background-color: #ffe9e4;
+  background-color: #fde4ff;
   display: flex;
   flex-direction: column;
   justify-content: center;

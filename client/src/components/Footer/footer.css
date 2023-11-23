@@ -1,8 +1,8 @@
 .footerText {
     margin: 0;
-    line-height: .4rem;
+    line-height: .8rem;
     text-align: center;
-    color: rgb(0, 134, 0);
+    color: rgb(54, 0, 134);
 }
 .footer-container {
     margin-top: 1%;
