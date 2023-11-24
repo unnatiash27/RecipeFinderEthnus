@@ -29,9 +29,8 @@
     border: none;
     border-radius: 2px;
     background-color: rgb(173, 9, 135);
-   
     font-weight: bold;
-    color:black;
+    color:rgb(255, 255, 255);
 }
 #get-started-btn a {
     text-decoration: none;
